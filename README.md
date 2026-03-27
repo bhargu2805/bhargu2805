@@ -63,15 +63,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhargu2805&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargu2805&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
-
----
-
 ### 🎓 Education & Certifications
 
 - 🏫 **MS Computer Science** — University of Central Florida (2024–2026)
