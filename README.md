@@ -69,7 +69,6 @@
 - 🎓 **BTech Computer Science** — Shri Vishnu Engineering College (2020–2024)
 - ☁️ AWS Certified Cloud Practitioner
 - 🤖 Microsoft Azure AI Fundamentals (AI-900)
-- 📊 IBM Data Science Professional
 
 ---
 
