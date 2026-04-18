@@ -20,7 +20,7 @@
 - 🎓 MS Computer Science at **University of Central Florida** (GPA: 3.8, May 2026)
 - 🔭 Currently building **enterprise AI systems** with RAG, FAISS, and local LLMs
 - 💡 Interested in **ML Engineering, Backend Development, and AI Systems**
-- 🌐 Portfolio: [bhargu2805.github.io/phishguard](https://bhargu2805.github.io/phishguard)
+- 🌐 Portfolio: [https://github.com/bhargu2805](https://github.com/bhargu2805)
 
 ---
 
